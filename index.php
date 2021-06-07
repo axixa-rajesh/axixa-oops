@@ -17,5 +17,5 @@ class YourClass{
 $ob=new YourClass();
 echo $ob;
 $ob('vikas','400');
-echo $ob;
+echo $ob; 
 ?>
